@@ -42,7 +42,6 @@ int pop()
         return x;
     }
 }
-
 int stacktop()
 {
     if (!stackempty())
